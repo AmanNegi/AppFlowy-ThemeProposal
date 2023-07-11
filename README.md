@@ -1,4 +1,13 @@
 # Themes-Rewamp 🎨
+- [Themes-Rewamp 🎨](#themes-rewamp-)
+  - [Introduction](#introduction)
+  - [The problems](#the-problems)
+    - [1. Contrast Issues ⬛⬜](#1-contrast-issues-)
+    - [2. Callout Theming Issues 💡](#2-callout-theming-issues-)
+    - [3. Startup Page Layout 🌠](#3-startup-page-layout-)
+    - [4. Other Isssues](#4-other-isssues)
+    - [5. Font Size](#5-font-size)
+
 
 ## Introduction
 
@@ -8,6 +17,9 @@ In AppFlowy, we offer users a selection of predefined themes to empower them wit
 ## The problems
 
 ### 1. Contrast Issues ⬛⬜
+
+Recently, we provided users with options to add their custom themes. However, it would be great if the predefined themes would be much more optimized, also we could provide a list of pre-made themes in the `GitBook` itself.
+
 In the following examples, we have utilized a contrast checker to demonstrate that the current color scheme employed is visually unappealing and compromises readability and visibility. It is recommended to make changes to the color selection in order to enhance these aspects and improve the overall user experience.
 
 
@@ -47,5 +59,6 @@ In addition to the aforementioned issues, we have identified some minor concerns
 
 ![other_issues](./images/other_issues.png)
 
-### 5. Font
+### 5. Font Size
+
 In addition, we will also examine the inclusion of options to increase font size throughout the application, including separate settings for modifying the font size within **documents** and adjusting the font size within the **app panels**. These proposed features aim to provide users with greater flexibility and customization, ultimately improving their overall experience within the AppFlowy platform.
